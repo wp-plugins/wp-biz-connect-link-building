@@ -11,6 +11,8 @@ Author URI: http://WPbizconnect.com
 add_action('admin_menu', 'WPbizconnect_admin_add_page');
 function WPbizconnect_admin_add_page() {
 add_options_page('WP Biz Connect', 'WP Biz Connect', 'manage_options', 'WPbizconnect', 'WPbizconnect_options_page');
+  add_menu_page('WP Biz Connect', 'WP Biz Connect', 'manage_options', 'WPbizconnect', 'WPbizconnect_options_page', plugin_dir_url( __FILE__ ) . 'images/icon.png');
+
 }
 
 function WPbizconnect_options_page() {
