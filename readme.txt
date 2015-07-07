@@ -13,7 +13,7 @@ A plugin that automatically promotes your website!
 
 == Description ==
 
-Fetches links that your site is to link to in our network and embeds them in a page of your choice.  Provides settings so that you can update the published page url at wpbizconnect directly from the plugin. 
+WP Biz Connect is the best 3 way link system available for wordpress! If automatically creates backlinks to your page and Fetches links that your site is to link to in our network which it then embeds in a page of your choice. WP Biz Connect also provides settings so that you can update the published page url at wpbizconnect directly from the plugin. 
 
 WP Biz Connect automatically adds your site to other user sites resource pages when they are local to you or in a related niche! It's basic cross promotion... Automated!!
 
