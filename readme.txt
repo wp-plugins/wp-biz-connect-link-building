@@ -8,11 +8,14 @@ Stable tag: 1.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Fetches links that your site is to link to in our network and embeds them in a page of your choice.  Provides settings so that you can update the published page url at wpbizconnect directly from the plugin. 
+
+A wordpress plugin that automatically promotes your website!
 
 == Description ==
 
-A wordpress plugin that automatically promotes your website! WP Biz Connect automatically adds your site to other user sites resource pages when they are local to you or in a related niche! It's basic cross promotion... Automated!!
+Fetches links that your site is to link to in our network and embeds them in a page of your choice.  Provides settings so that you can update the published page url at wpbizconnect directly from the plugin. 
+
+WP Biz Connect automatically adds your site to other user sites resource pages when they are local to you or in a related niche! It's basic cross promotion... Automated!!
 
 
 == Installation ==
