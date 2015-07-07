@@ -9,7 +9,7 @@ License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
-A plugin that automatically promotes your website!
+Automatically adds your site link to other users resource pages when they are local to you or in a related niche! Get new links every Sunday!
 
 == Description ==
 
