@@ -17,21 +17,21 @@ WP Biz Connect automatically adds your site link to other users resource pages w
 
 At the moment we have 157 members which translates to an average of 57 high quality links for each user!
 
-- REAL Links from REAL Business! -
+- REAL Links from REAL Business!
 
 This is NOT spam... this is REAL businesses cross promoting via links on their resource pages! WP Biz Connect is essentially a small business community connected to each other via the plugin. All businesses involved are 100% family-friendly.
 
-- How does it work? -
+- How does it work?
 
 Well, each Sunday links are automatically built to your site from other users of the plug-in. Specifically the plug-in is adding your link and description to other members 'resource' pages and vice versa. 
 
 You can see it in action here: http://wpbizconnect.com/all-the-details/
 
-- Intelligent Link Building -
+- Intelligent Link Building
 
 The plug-in is very intelligent. It links businesses together when they are close geographically, or in a related niche. It also makes sure no sites are linking back and forth (link exchanges) as one way links provide much more SEO value.
 
-- Download & Get Started NOW! -
+- Download & Get Started NOW!
 
 IMPORTANT: You will need to create a FREE account with the http://www.wpbizconnect.com site. You will also need to configure your plugin settings.
 
