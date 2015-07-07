@@ -43,18 +43,18 @@ After creating an account on http://wpbizconnect.com/ (FREE)
 --------------------------------------------------------------
 Setting up Your Links Page
 
-Simply create a new page in WordPress. Call the page anything you want. ‘Resources’, ‘external resources’, ‘recommended pages’ are all fine names. We recommend you don’t include the word ‘links’ in the page name.
+Simply create a new page in WordPress. Call the page anything you want. 'Resources', 'external resources', 'recommended pages' are all fine names. We recommend you don't include the word 'links' in the page name.
 
 Add the WP Biz Connect short code to the page which is:
 
 [WPbizconnect_links]
 
-If you’re not familiar with WordPress short codes this is simply a special hook which WordPress uses to automatically display the content of the plugin on the page.
+If you're not familiar with WordPress short codes this is simply a special hook which WordPress uses to automatically display the content of the plugin on the page.
 ---------------------------------------------------------------
 
 
 
-3.Lastly choose an appropriate niche for your site and click ‘Save Changes’.
+3.Lastly choose an appropriate niche for your site and click 'Save Changes'.
 
 
 
