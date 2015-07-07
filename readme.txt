@@ -1,7 +1,7 @@
 === WP Biz Connect Link Building ===
 Contributors: MD-Web
 Donate link: http://WPbizconnect.com/
-Tags: Link Wheel, Link Exchange, Promotion, SEO
+Tags: Link Wheel, Link Exchange, Promotion, SEO,google, search engine optimization, Backlinks,Google PR,Ranking Tool,3 way links,rank better,SEM
 Requires at least: 3.0.1
 Tested up to: 4.2.2
 Stable tag: 1.1
