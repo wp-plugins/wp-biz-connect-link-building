@@ -13,15 +13,29 @@ A plugin that automatically promotes your website!
 
 == Description ==
 
-WP Biz Connect is the best 3 way link system available for wordpress! If automatically creates backlinks to your page and Fetches links that your site is to link to in our network which it then embeds in a page of your choice. WP Biz Connect also provides settings so that you can update the published page url at wpbizconnect directly from the plugin. 
+WP Biz Connect automatically adds your site link to other users resource pages when they are local to you or in a related niche! It's basic cross promotion... Automated!!
 
-WP Biz Connect automatically adds your site to other user sites resource pages when they are local to you or in a related niche! It's basic cross promotion... Automated!!
+At the moment we have 157 members which translates to an average of 57 high quality links for each user!
 
-IMPORTANT: You will need to create a FREE account with the www.wpbizconnect.com site. You will also need to configure your plugin settings. 
+- REAL Links from REAL Business! -
 
-Video instructions here:
-http://wpbizconnect.com/plug-in-installation-video
+This is NOT spam... this is REAL businesses cross promoting via links on their resource pages! WP Biz Connect is essentially a small business community connected to each other via the plugin. All businesses involved are 100% family-friendly.
 
+- How does it work? -
+
+Well, each Sunday links are automatically built to your site from other users of the plug-in. Specifically the plug-in is adding your link and description to other members 'resource' pages and vice versa. 
+
+You can see it in action here: http://wpbizconnect.com/all-the-details/
+
+- Intelligent Link Building -
+
+The plug-in is very intelligent. It links businesses together when they are close geographically, or in a related niche. It also makes sure no sites are linking back and forth (link exchanges) as one way links provide much more SEO value.
+
+- Download & Get Started NOW! -
+
+IMPORTANT: You will need to create a FREE account with the http://www.wpbizconnect.com site. You will also need to configure your plugin settings.
+
+Video instructions here: http://wpbizconnect.com/plug-in-installation-video
 
 == Installation ==
 
