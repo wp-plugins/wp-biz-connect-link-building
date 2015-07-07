@@ -18,7 +18,7 @@ Fetches links that your site is to link to in our network and embeds them in a p
 
 WP Biz Connect automatically adds your site to other user sites resource pages when they are local to you or in a related niche! It's basic cross promotion... Automated!!
 
-IMPORTANT: You will need to create an account with the www.wpbizconnect.com site. You will also need to configure your plugin settings. 
+IMPORTANT: You will need to create a FREE account with the www.wpbizconnect.com site. You will also need to configure your plugin settings. 
 
 Video instructions here:
 http://wpbizconnect.com/plug-in-installation-video
