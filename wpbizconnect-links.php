@@ -3,7 +3,7 @@
 Plugin Name:WP Biz Connect 
 Plugin URI: http://WPbizconnect.com/wordpress 
 Description: Fetches links that your site is to link to in our network and embeds them in a page of your choice.  Provides settings so that you can update the published page url at wpbizconnect directly from the plugin. 
-Version: 1.1 
+Version: 1.2
 Author: WP Biz Connect
 Author URI: http://WPbizconnect.com 
 */
